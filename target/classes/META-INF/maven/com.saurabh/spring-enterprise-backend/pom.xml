@@ -4,4 +4,14 @@
   <artifactId>spring-enterprise-backend</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Spring-Enterprise-Backend</name>
+  
+  <dependencies>
+
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-context</artifactId>
+        <version>6.2.8</version>
+    </dependency>
+
+</dependencies>
 </project>
