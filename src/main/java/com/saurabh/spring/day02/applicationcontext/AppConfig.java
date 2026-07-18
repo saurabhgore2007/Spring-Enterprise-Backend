@@ -10,4 +10,9 @@ public class AppConfig {
     public Engine engine() {
         return new Engine();
     }
+	
+	@Bean
+    public Car car() {
+        return new Car(engine());
+    }
 }
