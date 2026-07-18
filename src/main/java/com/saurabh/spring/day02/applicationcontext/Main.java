@@ -17,6 +17,11 @@ public class Main {
         Car car = context.getBean(Car.class);
 
         car.drive();
+        
+        Car car1 = context.getBean(Car.class);
+        Car car2 = context.getBean(Car.class);
+
+        System.out.println(car1 == car2);
 	}
 
 }	
