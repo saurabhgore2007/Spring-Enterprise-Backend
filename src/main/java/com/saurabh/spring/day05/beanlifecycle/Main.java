@@ -8,7 +8,7 @@ public class Main {
 
 		AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
 
-		DatabaseConnection db = context.getBean(DatabaseConnection.class);
+//		DatabaseConnection db = context.getBean(DatabaseConnection.class);
         System.out.println("\nApplication Running...\n");
 
         context.close();
