@@ -1,4 +1,3 @@
-````markdown
 # Day 15 — Advanced Spring Data JPA
 
 ## 📚 Overview
