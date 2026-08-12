@@ -95,3 +95,9 @@ NoUniqueBeanDefinitionException
 - Spring Framework
 - Spring Core
 - Eclipse / STS
+
+--- 
+
+## 🖼️ Visual Overview
+
+![Day06-Dependency Injection](../diagrams/Day06-Dependency Injection.png)

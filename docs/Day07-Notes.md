@@ -170,4 +170,8 @@ Spring Boot reads these values during startup and configures the application aut
 - SpringApplication.run() initializes the complete Spring Boot application.
 - application.properties customizes application behavior without changing Java code.
 
----
+--- 
+
+## 🖼️ Visual Overview
+
+![Day07-Configuration](../diagrams/Day07-Configuration.png)

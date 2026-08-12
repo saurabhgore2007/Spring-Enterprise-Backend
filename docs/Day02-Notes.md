@@ -160,3 +160,8 @@ Both references point to the same Singleton Bean.
 ## Summary
 
 Today I learned how Spring starts its IoC Container, reads Configuration classes, creates Beans, stores them internally, and returns managed objects using ApplicationContext. I also understood that Spring creates only registered Beans and, by default, returns the same Singleton instance whenever getBean() is called.
+
+---
+## 🖼️ Visual Overview
+
+![Day02-SpringContainer](../diagrams/Day02-SpringContainer.png)

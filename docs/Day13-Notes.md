@@ -1,6 +1,5 @@
 # 📘 Day 13 README (Spring Data JPA Queries)
 
-````markdown
 # 📅 Day 13 - Spring Data JPA Queries & Performance Optimization
 
 ## 📚 Topics Covered
@@ -189,3 +188,6 @@ Database
 * MySQL
 
 ---
+## 🖼️ Visual Overview
+
+![Day13-SpringDataJpa](../diagrams/Day13-SpringDataJpa.png)

@@ -65,3 +65,9 @@
 ✔ Difference between LAZY and EAGER loading
 
 ✔ Common mistakes in production projects
+
+---
+
+## 🖼️ Visual Overview
+
+![Day12-Hibernate & JPA Entity Relationships](../diagrams/Day12-Hibernate & JPA Entity Relationships.png)

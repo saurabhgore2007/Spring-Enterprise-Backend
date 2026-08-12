@@ -523,3 +523,7 @@ Exceptions travel back through the method call stack until they are caught. If n
 By the end of Day 10, I understood how Spring Boot validates incoming requests, how Jackson creates Java objects from JSON, why wrapper classes are important, how exceptions propagate through the application, and how Global Exception Handling produces clean, consistent API responses.
 
 ---
+
+## 🖼️ Visual Overview
+
+![Day10-SpringBootValidationFlowDiagram](../diagrams/Day10-SpringBootValidationFlowDiagram.png)

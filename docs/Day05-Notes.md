@@ -149,3 +149,8 @@ Application Running...
 ## 🚀 Outcome
 
 By completing Day 05, I gained a solid understanding of how Spring creates, initializes, manages, and destroys beans. I also learned different lifecycle callback mechanisms and understood why Singleton beans should be stateless in enterprise applications.
+
+---
+## 🖼️ Visual Overview
+
+![Day05-beanLifecycle](../diagrams/Day05-beanLifecycle.png)

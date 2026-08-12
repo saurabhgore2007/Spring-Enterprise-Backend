@@ -63,3 +63,6 @@ A Spring Bean is an object that is instantiated, configured, and managed by the 
 - IoC transfers object creation to the container.  
 
 ---
+## 🖼️ Visual Overview
+
+![Day01-IoC-DI](../diagrams/Day01-IoC-DI.png)

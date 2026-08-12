@@ -340,3 +340,9 @@ Jackson matches JSON keys with JavaBean property names using getter and setter m
 By the end of Day 09, I understood how Spring Boot receives HTTP requests, extracts request data using annotations, converts JSON into Java objects with Jackson, and passes fully populated objects to controller methods.
 
 ---
+
+
+## 🖼️ Visual Overview
+
+![Day09-RequestHandling](../diagrams/Day09-RequestHandling.png)
+

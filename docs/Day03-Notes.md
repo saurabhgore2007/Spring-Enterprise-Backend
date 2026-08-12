@@ -300,3 +300,8 @@ Spring resolves dependencies by Java Type.
 - Spring resolves dependencies by Java Type.
 - Missing Beans cause `NoSuchBeanDefinitionException`.
 - Multiple matching Beans cause `NoUniqueBeanDefinitionException`.
+
+---
+## 🖼️ Visual Overview
+
+![Day03-Component](../diagrams/Day03-Component.png)

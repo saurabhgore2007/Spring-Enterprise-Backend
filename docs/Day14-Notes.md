@@ -679,3 +679,7 @@ Later, **Optimistic/Pessimistic Locking** will protect inventory from concurrent
           ▼           ▼
        COMMIT      ROLLBACK
 ```
+---
+## 🖼️ Visual Overview
+
+![Day14-SpringTransaction](../diagrams/Day14-SpringTransaction.png)

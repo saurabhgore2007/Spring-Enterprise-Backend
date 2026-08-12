@@ -183,3 +183,8 @@ Session Scope.
 ✔ Request and Session scopes are only for Web Applications.
 
 ✔ Bean scope does not automatically change the scope of dependent Beans.
+
+---
+## 🖼️ Visual Overview
+
+![Day04-bean-scope](../diagrams/Day04-bean-scope.png)

@@ -313,3 +313,8 @@ DispatcherServlet is the Front Controller of Spring MVC. It receives every incom
 By the end of Day 08, I understood how REST APIs are designed, how Spring Boot maps HTTP requests to controller methods, how REST endpoints communicate with clients, and how HTTP responses are generated using `ResponseEntity`.
 
 ---
+
+
+## 🖼️ Visual Overview
+
+![Day08-SpringAPICycle](../diagrams/Day08-SpringAPICycle.png)

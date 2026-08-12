@@ -113,3 +113,7 @@ MySQL
 - Building a layered Spring Boot application
 
 ---
+
+## 🖼️ Visual Overview
+
+![Day11-SpringDataJpa](../diagrams/Day11-SpringDataJpa.png)

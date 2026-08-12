@@ -459,3 +459,7 @@ Runtime Repository Proxy
 ```
 
 ---
+
+## 🖼️ Visual Overview
+
+![Day15-AdvanceSpringJpa](../diagrams/Day15-AdvanceSpringJpa.png)

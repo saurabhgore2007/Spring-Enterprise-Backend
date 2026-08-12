@@ -284,3 +284,8 @@ Sort
     ↓
 Controls result ordering
 ```
+---
+
+## 🖼️ Visual Overview
+
+![Day16-Pagination](../diagrams/Day16-Pagination.png)
